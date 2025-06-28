@@ -1,2 +1,2 @@
 # GitPractice
-practice 123456
+practice
