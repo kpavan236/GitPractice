@@ -1,2 +1,2 @@
 # GitPractice
-testing
+practice
